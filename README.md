@@ -32,5 +32,5 @@ No Piracy was supported in this project. YTS used for "Educational Purposes Only
 ## **In Action:**
 
 ![enter image description here](https://raw.githubusercontent.com/arfatkh/YTSDownloader/main/imgs/demo.gif)
-***[It downloads the torrent and stores it in the specified folder]***
 
+It downloads the torrent and stores it in the specified folder
