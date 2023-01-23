@@ -10,7 +10,4 @@ But Web Scrapper it is using multi processing to scrape all pages at once :)
 ## **In Action:**
 
 ![enter image description here](https://raw.githubusercontent.com/arfatkh/YTSDownloader/main/imgs/demo.gif)
-
-
-**Downloaded Content:**
-![enter image description here](https://raw.githubusercontent.com/arfatkh/YTSDownloader/main/imgs/downloaded.png)
+[It downloads the torrent and stores it in the specified folder]
